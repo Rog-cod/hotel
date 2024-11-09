@@ -1,4 +1,4 @@
 Hi this is my first project.
 This is the development branch.
 this is some changes
-This is going to create a conflict.
+this is some changes
